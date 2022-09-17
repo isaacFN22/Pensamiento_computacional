@@ -29,4 +29,10 @@
 ###  Realice un algoritmo que resuelva la siguiente situación: un producto tenía un precio inicial que debe solicitarse y ahora tiene un nuevo valor, mayor, que también deberá pedirse, determine el porcentaje de incremento del producto. 
 
    1. INICIO
-   2. Declarar 
+   2. Declarar solicitar valor actual, solicitar nuevo valor, 
+   3. Proceso
+   4. restar valor mayor menos actual
+   5. la diferencia multiplicarla por 100
+   6. el reultado dividirlo entre le valor menor
+   7. Mostrar el resultado
+   8. FIN
