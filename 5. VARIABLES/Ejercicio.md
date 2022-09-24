@@ -29,6 +29,8 @@ Realiza un algoritmo que calcule el promedio de un alumno el cual tiene cuatro c
 
       TU ALGORITMO AQUI
       
+ ![image](https://user-images.githubusercontent.com/113804770/192121865-7bdf7e5d-d5e8-4d7d-a984-596eeb4927ad.png)
+
       
 ## EJERCICIO 3
 
