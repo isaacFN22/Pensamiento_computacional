@@ -11,3 +11,4 @@
       Asignar a la altura
       Area== base*altura
       mostrar area en la pantalla
+![image](https://user-images.githubusercontent.com/113804770/192122609-e095851f-98bc-4dff-a008-95e097e40a4c.png)
