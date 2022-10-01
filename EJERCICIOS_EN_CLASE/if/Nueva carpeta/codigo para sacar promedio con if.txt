@@ -1,0 +1,41 @@
+1. INICIO
+
+2. Declara nombre(str) Declarar cal1(int) cal2(int) cal3(int) cal4(int) cal5(int)  promedio(float)
+
+3. Mostrar "--Bienvenido--"
+
+4. Mostrar "Programa para calculcular tu promedio"
+
+5. Mostrar "Ingresa tu nombre"
+
+4. Asignar a nombre
+
+6. Mostrar "Ingresa calificacion 1"
+
+7. Asignar a cal1
+
+8. Mostrar "Ingresa calificacion 2"
+
+9. Asignar a cal2
+
+10. Mostrar "Ingresa calificacion 3"
+
+11. Asignar a cal3
+
+12. Mostrar "Ingresa calificacion 4"
+
+13. Asignar a cal4
+
+14. Mostrar "Ingresa calificacion 5"
+
+15. Asignar a cal5
+
+16 Promedio==(cal1+cal2+cal3+cal4+cal5)/5
+
+17. Si Promedio>6 entonces
+            mostrar nombre," aprobado ", Promedio 
+                  si no
+            mostrar nombre," reprobado ", Promedio
+
+6 Fin
+           

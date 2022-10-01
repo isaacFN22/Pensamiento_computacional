@@ -1,0 +1,13 @@
+1. INICIO
+
+2. Declara num(int)
+
+3. Mostrar "ingresa el numero"
+
+4. Asignar a num
+
+5. Si num>0 entonces
+            mostrar "numero posistivo"
+
+6 Fin
+           

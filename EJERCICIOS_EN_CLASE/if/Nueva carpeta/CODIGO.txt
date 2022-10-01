@@ -1,0 +1,19 @@
+
+pedir nombre, numero e imprima el nombre y el numero
+
+
+1. Inicio
+
+2. Declar num(int) nombre(str)
+
+3. Mostrar "Ingresa tu nombre"
+
+4. Asignar a nombre 
+
+5. Mostrar "Ingresa un numero"
+
+6. Asignar a num
+
+7. Mostrar nombre,"mostrar numero,"
+
+8. fin
